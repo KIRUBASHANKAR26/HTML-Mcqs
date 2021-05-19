@@ -1,0 +1,256 @@
+1.Apart from <b> tag, what other tag makes text bold ?
+A.<fat>B.<strong>
+C.<black>D.<emp>
+Answer : <strong> [Option : B]
+............................................................................................
+2.HTML web pages can be read and rendered by _________.
+A.CompilerB.Server
+C.Web Browser D.Interpreter
+Answer : Web Browser [Option : C]
+...........................................................................................
+3. What does vlink attribute mean?
+a. visited link
+b. virtual link
+c. very good link
+d. active link
+ANS:A
+............................................................................................
+4. To create a combo box (drop down box) which tag will you use?
+a. <select>
+b. <list>
+c. <input type="dropdown">
+d. all of above
+ANS:A
+...........................................................................................
+5.20. Which of the following is not a pair tag?
+a. <p>
+b. < u >
+c. <i>
+d. <img>
+ANS:D
+............................................................................................
+6.HTML documents are saved in
+a. Special binary format
+b. Machine language codes
+c. ASCII text
+d. None of above
+ANS:C
+............................................................................................
+7. The _____ character tells browsers to stop tagging the text
+a. ?
+b. /
+c. >
+d. %
+ans:b
+---------------------------------------------------------------------------------------------------
+8. In HTML document the tags
+a. Should be written in upper case
+b. should be written in lower case
+c. should be written in propercase
+d. can be written in both uppercase or lowercase
+ANS:d
+-------------------------------------------------------------------------------------------------
+9. Marquee is a tag in HTML to
+a. mark the list of items to maintaininqueue
+b. Mark the text so that it is hidden in browser
+c. Display text with scrolling effect
+d. None of above
+ANS:C
+--------------------------------------------------------
+10.Which attribute can be used with BODY tag to set background color green?
+a. background="green"
+b. bgcolor="green"
+c. vlink="green"
+d. None of above
+ANS:B
+-----------------------------------------------------------------
+11.Which attribute you’ll use with TD tag to merge two cells horizontally?
+a. merge=colspan2
+b. rowspan=2
+c. colspan=2
+d. merge=row2
+ANS:C
+---------------------------------------------------------
+12. Choose the correct HTML tag to make the text bold?
+a. <B>
+b. <BOLD>
+c. <STRONG>
+d. Both A) and C)
+ANS:D
+-------------------------------------------------------------
+13.Which HTML tag would be used to display power in expression (A+B)2 ?
+a. <SUP>
+b. <SUB>
+c. <B>
+d. <P>
+ANS:A
+-----------------------------------------------------------------
+14. Which of the following tag is used to make the underlined text?
+
+a.<i>
+b.<ul>
+c.<u>
+d.<pre>
+ANS:C
+................................................
+15.Which of the following tag is used to define options in a drop-down selection list?
+
+a.<select>
+b.<list>
+c.<dropdown>
+d.<option>
+ANS:D
+-----------------------------------------------------------------
+16. How to insert a background image in HTML?
+
+a.<body background = "img.png">
+b.<img background = "img.png">
+c.<bg-image = "img.png">
+d.None of the above
+ANS:A
+------------------------------------------------------------------------
+17. What are the types of unordered or bulleted list in HTML?
+
+a.disc, square, triangle
+b.polygon, triangle, circle
+c.disc, circle, square
+d.All of the above
+ANS:C
+-----------------------------------------------------------------------------------
+18.Which of the following is the correct way to create a list using the lowercase letters?
+
+a.<ol alpha = "a" >
+b.<ol type = "a">
+c.<ol letter = "a">
+d.None of the above
+ans:b
+.......................................................................
+19. Which of the following is the correct way to start an ordered list with the count of numeric value 4?
+
+a.<ol type = "1" initial = "4">
+b.<ol type = "1" begin = "4">
+c.<ol type = "1" num = "4">
+d.<ol type = "1" start = "4">
+ans:d
+=============================================================
+20. The tags in HTML are -
+
+a.case-sensitive
+b.in upper case
+c.not case sensitive
+d.in lowercase
+ANS:c
+===============================================================
+21.Which of the following are the attributes of the tag?
+a.method
+b.action
+c.Both (a) & (b)
+d.None of the above
+ans:c
+===========================================================
+22. The main container for <TR>, <TD> and <TH> is _______
+
+a) <DATA>
+b) <GROUP>
+c) <TABLE>
+d) None of the above
+
+Answer : c
+============================================================
+23.The <BASE> tag is designed to appear only between _______
+
+a) <BODY>
+b) <HEAD>
+c) <TITLE>
+d) <PRE>
+
+Answer : b
+============================================================
+24. Which section is used for text and tags that are shown directly on your web page?
+
+a) Head
+b) Metatags
+c) Body
+d) title
+
+Answer : c
+=================================================================
+25.To start a list at the count of 3, use
+
+a) <ol begin=”3”>
+b) <ol list=”3”>
+c) <ol start=”3”>
+d) <ol num=”3”>
+
+Answer : c
+======================================================================
+26.To change the size of an image in HTML, use
+
+a) Pliers
+b) Bigger and smaller
+c) Top and bottom
+d) Height and width
+
+Answer : d
+========================================================================
+27.The tag for title text for rows and columns is
+
+a) <TD>
+b) <TR>
+c) <TH>
+d) None of the above
+
+Answer : c
+=======================================================================
+28. The symbol used at the beginning of the HREF text is
+
+a) @
+b) &
+c) $
+d) #
+
+Answer : d
+========================================================================
+29.To set the color for table borders, use ______
+
+a) bgcolor=#003300
+b) bgimage=#003300
+c) bordercolor=#003300
+d) tablecolor=#003300
+
+Answer : c
+----------------------------------------------------------------------
+30.The tag used to create a new list item and also include a hyperlink is
+
+a.	<UL>
+b.	<DD>
+c.	<DL>
+d.	<LI>
+Answer:<LI>
+=============================================================================
+31.Text within <strong> tag is displayed as
+
+a) list
+b) italic
+c) underline
+d) bold
+
+Answer : d
+=================================================================================
+32.Which attribute is used to provide an advisory text about an element or its contents?
+a) tooltip
+b) dir
+c) title
+d) head
+
+ans:c
+------------------------------------------------------------------------------------------
+33.The __________ attribute sets the text direction as related to the lang attribute.
+a) lang
+b) sub
+c) dir
+d) ds
+
+ANS:c
+------------------------------------------------------------------------------
+
